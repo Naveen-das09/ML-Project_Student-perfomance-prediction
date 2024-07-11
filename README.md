@@ -1,6 +1,5 @@
 ## End to end Machine Learning Project
 
-Sure! Here is a suggested content for the README file for your repository "ML-Project_Student-performance-prediction":
 
 ---
 
